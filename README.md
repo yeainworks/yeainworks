@@ -25,21 +25,26 @@
   <a href="https://x.com/yeainworks?s=21" target="_blank">
     <img src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
   </a>
-  <a href="mailto:" target="_blank">
+  <a href="mailto:yeainworks@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://t.me/ваш-профиль" target="_blank">
+  <a href="https://t.me/@champagnepapiworks" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-    <a href="https://t.me/ваш-профиль" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <a href="https://yeaworks.ru/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
 
 ---
+
 ### 💡 I AM OPEN FOR NEW COLLABORAT/ON AND YOUR QUESTIONS:
 - IF YOU HAVE A QUESTION, PLEASE WRITE ME IN A TELEGRAM!
   - @champagnepapiworks
+
 ---
+
 ### 🚀 GUYS PLEASE DONT TOUCH MY PROJECT AND REPS IF IT WORKS!
+
 ---
+
