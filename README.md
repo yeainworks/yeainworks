@@ -37,23 +37,9 @@
 </p>
 
 ---
-
-### 📊 GitHub статистика:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ваш-username&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ваш-username&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
+###💡 I AM OPEN FOR NEW COLLABORATION AND YOUR QUESTIONS:
+- IF YOU HAVE A QUESTION, PLEASE WRITE ME IN A TELEGRAM
+- @champagnepapiworks
 ---
-
-### 🚀 Последние проекты:
-
-- [Проект 1](https://github.com/ваш-репозиторий) — краткое описание
-- [Проект 2](https://github.com/ваш-репозиторий) — краткое описание
-- [Проект 3](https://github.com/ваш-репозиторий) — краткое описание
-
+### 🚀 GUYS PLEASE DONT TOUCH MY PROJECT AND REPS IF IT WORKS!
 ---
-
-<p align="center">💡 Всегда открыт к новым проектам и идеям!</p>
