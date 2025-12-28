@@ -9,7 +9,7 @@
 
 ### 🛠️My Sk/lls:
 
-- 💻 **Frontend**: HTML and CSS (only w/th peoples who know this)
+- 💻 **Frontend**: HTML and CSS (on the normal level)
 - 🔧 **Backend**: Node.js and Django (in the learn/ng process)
 - ☁️ **DevOps**: Docker (i know th/s)
 - ⚙️ **Инструменты**: Git, VS Code, Webpack, chat.gpt
