@@ -31,7 +31,7 @@
   <a href="https://t.me/@champagnepapiworks" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-    <a href="https://yeaworks.ru/" target="_blank">
+    <a href="https://it.yeaworks.com/" target="_blank">
     <img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
