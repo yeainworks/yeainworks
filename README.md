@@ -1,7 +1,7 @@
 <h1 align="center">hey, its YeaWorks 👋</h1>
 
 <p align="center">
-  <b>Not really programmer and developer</b><br>
+  <b>A really programmer and developer</b><br>
   4real sh/t in this g/thub, i publ/c another projects.
 </p>
 
