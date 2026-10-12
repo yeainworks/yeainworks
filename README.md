@@ -2,17 +2,17 @@
 
 <p align="center">
   <b>A really programmer and developer</b><br>
-  4real sh/t in this g/thub, i publ/c another projects.
+  Programmer, artist, creator, and builder.
 </p>
 
 ---
 
 ### 🛠️My Sk/lls:
 
-- 💻 **Frontend**: HTML and CSS (on the normal level)
-- 🔧 **Backend**: Node.js and Django (in the learn/ng process)
-- ☁️ **DevOps**: Docker (i know th/s)
-- ⚙️ **Инструменты**: Git, VS Code, Webpack, chat.gpt
+- 💻 **Frontend**: HTML and CSS 
+- 🔧 **Backend**: Node.js and Django
+- ☁️ **DevOps**: Docker
+- ⚙️ **Instruments**: Git, VS Code, Webpack, codex & claude code
 
 ---
 
@@ -31,7 +31,7 @@
   <a href="https://t.me/@champagnepapiworks" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-    <a href="https://it.yeaworks.com/" target="_blank">
+    <a href="https://work.yeainworks.com/" target="_blank">
     <img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
@@ -40,7 +40,7 @@
 
 ### 💡 I AM OPEN FOR NEW COLLABORAT/ON AND YOUR QUESTIONS:
 - IF YOU HAVE A QUESTION, PLEASE WRITE ME IN A TELEGRAM!
-  - @champagnepapiworks
+  - @nextformgmt
 
 ---
 
