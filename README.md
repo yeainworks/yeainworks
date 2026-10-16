@@ -1,50 +1,15 @@
-<h1 align="center">hey, its YeaWorks 👋</h1>
+# i make things.
 
-<p align="center">
-  <b>A really programmer and developer</b><br>
-  Programmer, artist, creator, and builder.
-</p>
+fullstack developer and designer. i design and build websites, interfaces, bots and products.
 
----
+[portfolio](https://work.yeainworks.com) · [instagram](http://instagram.com/yeainworks/) · [x](https://x.com/yeainworks) · [telegram](https://t.me/champagnepapiworks) · [email](mailto:yeainworks@gmail.com)
 
-### 🛠️My Sk/lls:
+selected projects
 
-- 💻 **Frontend**: HTML and CSS 
-- 🔧 **Backend**: Node.js and Django
-- ☁️ **DevOps**: Docker
-- ⚙️ **Instruments**: Git, VS Code, Webpack, codex & claude code
+- [NextVPN](https://github.com/yeainworks/NextVPN): vpn service with site, and [XrayProtocol](https://github.com/yeainworks/XrayProtocol) server setup
+- [nextecosystem-site](https://github.com/yeainworks/nextecosystem-site): site for the next product ecosystem
+- [tgbot-madzhi](https://github.com/yeainworks/tgbot-madzhi): telegram booking bot for a barber, aiogram 3, ready for YCLIENTS
+- [medita-app](https://github.com/yeainworks/medita-app): native ios app in swift
+- [caveman-sigma](https://github.com/yeainworks/caveman-sigma): claude code skill for cheaper, terser agent runs
 
----
-
-### 📫 Контакты и социальные сети:
-
-<p align="/nstagram">
-  <a href="http://instagram.com/yeainworks/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/yeainworks?s=21" target="_blank">
-    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
-  </a>
-  <a href="mailto:yeainworks@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://t.me/@champagnepapiworks" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-    <a href="https://work.yeainworks.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-</p>
-
----
-
-### 💡 I AM OPEN FOR NEW COLLABORAT/ON AND YOUR QUESTIONS:
-- IF YOU HAVE A QUESTION, PLEASE WRITE ME IN A TELEGRAM!
-  - @nextformgmt
-
----
-
-### 🚀 GUYS PLEASE DONT TOUCH MY PROJECT AND REPS IF IT WORKS!
-
----
-
+react · next.js · typescript · node.js · django · python · aiogram · swift · docker · git · figma
